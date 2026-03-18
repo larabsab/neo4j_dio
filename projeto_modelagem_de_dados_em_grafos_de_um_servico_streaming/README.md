@@ -21,12 +21,12 @@ E pelos seguintes relacionamentos:
 ### 1. Diagrama Conceitual (Rascunho)
 Este foi o rascunho inicial que guiou a estrutura do banco de dados:
 
-![Diagrama Conceitual do Grafo](docs/rascunho_modelo.png)
+![Diagrama Conceitual do Grafo](projeto_modelagem_de_dados_em_grafos_de_um_servico_streaming/docs/rascunho_modelo.png)
 
 ### 2. Visualização do Grafo no Neo4j Aura (Implementação Final)
 A imagem abaixo mostra o grafo populado com os usuários e obras da lista, rodando no ambiente de nuvem:
 
-![Visualização Final do Grafo no Neo4j Aura](docs/modelo-grafo.png)
+![Visualização Final do Grafo no Neo4j Aura](projeto_modelagem_de_dados_em_grafos_de_um_servico_streaming/docs/modelo-grafo.png)
 
 
 ## Como Executar

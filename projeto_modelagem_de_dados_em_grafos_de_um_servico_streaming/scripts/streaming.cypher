@@ -84,7 +84,7 @@ MERGE (d10:Director{name:'James Cameron'})
 
 /// MATCH
 /// match users 
-MATCH (u1:User{name:'Ana Julia' })
+MATCH (u1:User{name:'Ana Julia'})
 MATCH (u2:User{name:'Gustavo'}) 
 MATCH (u3:User{name:'Luiza'}) 
 MATCH (u4:User{name:'Bernado'}) 
